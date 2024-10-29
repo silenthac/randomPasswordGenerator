@@ -1,0 +1,46 @@
+
+
+
+body{
+    background-color: rgb(36, 36, 61);
+}
+
+.container{
+    height: 50%;
+    width: 50%;
+    margin-top: 200px;
+    margin-left: 50px;
+     
+}
+
+.part1{
+    color: white;
+   
+}
+
+.part2{
+    color: green;
+    text-decoration: underline;
+}
+
+input{
+    width: 40%;
+    height: 40px;
+    font-size: 25px;
+}
+
+#copy{
+    height: 40px;
+
+}
+
+.generatecontainer{
+    margin-top: 20px;
+}
+
+#generate{
+    height: 30px;
+    width: 25%;
+}
+
+
